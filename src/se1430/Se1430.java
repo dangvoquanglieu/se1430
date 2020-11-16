@@ -39,3 +39,15 @@ public class Se1430 {
     }
 
 }
+
+//muon ket luan ham minh on ham minh ngon thi ta phai nhin bang mat ket qua chay cua ham
+//va so sanh voi ki vong
+//lam tung truong hop chay ham -test case
+//cah nay on nhung mat suc
+
+//NANG CAO: udng mau sac, xanh , do de ket luan
+//neu ta thay xanh moi case, moi tinh huong on
+//ta thay do, chi mot thang mau do coi nhu ham toang
+//JUNIT, TESTING, UNIT, ... la nhung framework cu the der giup test cac ham
+//mot cach hieu qua
+//dung no ta tich hop vao 1 quy trinh lam pham mem lon hon, CI/CT/CD/DEVOPS
