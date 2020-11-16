@@ -21,6 +21,7 @@ public class MathUtilityTest {
     @Test
     public void getFactorial_RunsWell_IfValidArgument() {
         Assert.assertEquals(120, MathUtility.getFactorial(5));
+        Assert.assertEquals(1, MathUtility.getFactorial(0));
     }
 
     //cần test oci co snems về ngaoij lệ hay ko???
